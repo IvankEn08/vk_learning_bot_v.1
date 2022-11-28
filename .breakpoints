@@ -1,0 +1,56 @@
+{
+  "files": {
+    "auto_game_algorithm.py": [
+      {
+        "id": "3dfbf2be-dbc9-4da7-9884-ac5b7bf1806b",
+        "line": 4,
+        "version": 133,
+        "index": 117
+      }
+    ],
+    "database2.py": [
+      {
+        "id": "85599ec0-b51f-49a1-9670-6110de0f3c37",
+        "line": 59,
+        "version": 83,
+        "index": 1884
+      }
+    ],
+    "keyboard_set.py": [
+      {
+        "id": "27beae8f-58df-4466-b4a9-671acbc92efc",
+        "line": 8,
+        "version": 564,
+        "index": 118
+      }
+    ],
+    "main.py": [
+      {
+        "id": "dc12cc43-2257-46e3-823c-69efc7808c52",
+        "line": 137,
+        "version": 16919,
+        "index": 5272
+      },
+      {
+        "id": "f7c88c64-236b-47e1-8a76-5b981f934eb9",
+        "line": 332,
+        "version": 16919,
+        "index": 14370
+      },
+      {
+        "id": "934b3441-d13f-4d0d-a61c-61d3ed435a9f",
+        "line": 364,
+        "version": 16919,
+        "index": 15621
+      }
+    ],
+    "testing.py": [
+      {
+        "id": "e32b507f-3484-459c-9ff8-54fd152f29c6",
+        "line": 62,
+        "version": 702,
+        "index": 2547
+      }
+    ]
+  }
+}
